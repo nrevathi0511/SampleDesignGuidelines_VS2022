@@ -1,0 +1,6 @@
+C:\Users\rneerukonda1\Desktop\Backupdata\Fremawork_Design_Guidelines\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\rneerukonda1\Desktop\Backupdata\Fremawork_Design_Guidelines\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\rneerukonda1\Desktop\Backupdata\Fremawork_Design_Guidelines\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\rneerukonda1\Desktop\Backupdata\Fremawork_Design_Guidelines\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rneerukonda1\Desktop\Backupdata\Fremawork_Design_Guidelines\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\rneerukonda1\Desktop\Backupdata\Fremawork_Design_Guidelines\ClassLibrary\obj\Debug\ClassLibrary.pdb

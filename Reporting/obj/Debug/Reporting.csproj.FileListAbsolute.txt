@@ -1,0 +1,6 @@
+C:\Users\rneerukonda1\Desktop\Backupdata\Fremawork_Design_Guidelines\Reporting\bin\Debug\Reporting.dll
+C:\Users\rneerukonda1\Desktop\Backupdata\Fremawork_Design_Guidelines\Reporting\bin\Debug\Reporting.pdb
+C:\Users\rneerukonda1\Desktop\Backupdata\Fremawork_Design_Guidelines\Reporting\obj\Debug\Reporting.csproj.AssemblyReference.cache
+C:\Users\rneerukonda1\Desktop\Backupdata\Fremawork_Design_Guidelines\Reporting\obj\Debug\Reporting.csproj.CoreCompileInputs.cache
+C:\Users\rneerukonda1\Desktop\Backupdata\Fremawork_Design_Guidelines\Reporting\obj\Debug\Reporting.dll
+C:\Users\rneerukonda1\Desktop\Backupdata\Fremawork_Design_Guidelines\Reporting\obj\Debug\Reporting.pdb

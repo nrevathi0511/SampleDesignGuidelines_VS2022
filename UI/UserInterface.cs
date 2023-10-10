@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Framework_Design_Guidelines.UI
+namespace UI
 {
     public class UserInterface
     {

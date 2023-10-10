@@ -1,17 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rneerukonda1\\source\\repos\\Fremawork_Design_Guidelines\\Fremawork_Design_Guidelines\\Fremawork_Design_Guidelines.csproj": {}
+    "C:\\Users\\rneerukonda1\\Desktop\\Backupdata\\Fremawork_Design_Guidelines\\Fremawork_Design_Guidelines\\Fremawork_Design_Guidelines.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rneerukonda1\\source\\repos\\Fremawork_Design_Guidelines\\Fremawork_Design_Guidelines\\Fremawork_Design_Guidelines.csproj": {
+    "C:\\Users\\rneerukonda1\\Desktop\\Backupdata\\Fremawork_Design_Guidelines\\ClassLibrary\\ClassLibrary.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rneerukonda1\\Desktop\\Backupdata\\Fremawork_Design_Guidelines\\ClassLibrary\\ClassLibrary.csproj",
+        "projectName": "ClassLibrary",
+        "projectPath": "C:\\Users\\rneerukonda1\\Desktop\\Backupdata\\Fremawork_Design_Guidelines\\ClassLibrary\\ClassLibrary.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\rneerukonda1\\Desktop\\Backupdata\\Fremawork_Design_Guidelines\\Fremawork_Design_Guidelines\\Fremawork_Design_Guidelines.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rneerukonda1\\source\\repos\\Fremawork_Design_Guidelines\\Fremawork_Design_Guidelines\\Fremawork_Design_Guidelines.csproj",
+        "projectUniqueName": "C:\\Users\\rneerukonda1\\Desktop\\Backupdata\\Fremawork_Design_Guidelines\\Fremawork_Design_Guidelines\\Fremawork_Design_Guidelines.csproj",
         "projectName": "Fremawork_Design_Guidelines",
-        "projectPath": "C:\\Users\\rneerukonda1\\source\\repos\\Fremawork_Design_Guidelines\\Fremawork_Design_Guidelines\\Fremawork_Design_Guidelines.csproj",
+        "projectPath": "C:\\Users\\rneerukonda1\\Desktop\\Backupdata\\Fremawork_Design_Guidelines\\Fremawork_Design_Guidelines\\Fremawork_Design_Guidelines.csproj",
         "packagesPath": "C:\\Users\\rneerukonda1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rneerukonda1\\source\\repos\\Fremawork_Design_Guidelines\\Fremawork_Design_Guidelines\\obj\\",
+        "outputPath": "C:\\Users\\rneerukonda1\\Desktop\\Backupdata\\Fremawork_Design_Guidelines\\Fremawork_Design_Guidelines\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rneerukonda1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,7 +42,17 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\rneerukonda1\\Desktop\\Backupdata\\Fremawork_Design_Guidelines\\ClassLibrary\\ClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\rneerukonda1\\Desktop\\Backupdata\\Fremawork_Design_Guidelines\\ClassLibrary\\ClassLibrary.csproj"
+              },
+              "C:\\Users\\rneerukonda1\\Desktop\\Backupdata\\Fremawork_Design_Guidelines\\Reporting\\Reporting.csproj": {
+                "projectPath": "C:\\Users\\rneerukonda1\\Desktop\\Backupdata\\Fremawork_Design_Guidelines\\Reporting\\Reporting.csproj"
+              },
+              "C:\\Users\\rneerukonda1\\Desktop\\Backupdata\\Fremawork_Design_Guidelines\\UI\\UI.csproj": {
+                "projectPath": "C:\\Users\\rneerukonda1\\Desktop\\Backupdata\\Fremawork_Design_Guidelines\\UI\\UI.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -57,6 +82,36 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Users\\rneerukonda1\\Desktop\\Backupdata\\Fremawork_Design_Guidelines\\Reporting\\Reporting.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rneerukonda1\\Desktop\\Backupdata\\Fremawork_Design_Guidelines\\Reporting\\Reporting.csproj",
+        "projectName": "Reporting",
+        "projectPath": "C:\\Users\\rneerukonda1\\Desktop\\Backupdata\\Fremawork_Design_Guidelines\\Reporting\\Reporting.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\rneerukonda1\\Desktop\\Backupdata\\Fremawork_Design_Guidelines\\UI\\UI.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rneerukonda1\\Desktop\\Backupdata\\Fremawork_Design_Guidelines\\UI\\UI.csproj",
+        "projectName": "UI",
+        "projectPath": "C:\\Users\\rneerukonda1\\Desktop\\Backupdata\\Fremawork_Design_Guidelines\\UI\\UI.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }

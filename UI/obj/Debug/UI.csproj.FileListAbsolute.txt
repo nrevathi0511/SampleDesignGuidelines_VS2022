@@ -1,0 +1,6 @@
+C:\Users\rneerukonda1\Desktop\Backupdata\Fremawork_Design_Guidelines\UI\bin\Debug\UI.dll
+C:\Users\rneerukonda1\Desktop\Backupdata\Fremawork_Design_Guidelines\UI\bin\Debug\UI.pdb
+C:\Users\rneerukonda1\Desktop\Backupdata\Fremawork_Design_Guidelines\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\rneerukonda1\Desktop\Backupdata\Fremawork_Design_Guidelines\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\rneerukonda1\Desktop\Backupdata\Fremawork_Design_Guidelines\UI\obj\Debug\UI.dll
+C:\Users\rneerukonda1\Desktop\Backupdata\Fremawork_Design_Guidelines\UI\obj\Debug\UI.pdb

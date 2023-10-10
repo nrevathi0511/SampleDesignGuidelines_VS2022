@@ -1,11 +1,59 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "ClassLibrary/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/ClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary.dll": {}
+        }
+      },
+      "Reporting/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Reporting.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Reporting.dll": {}
+        }
+      },
+      "UI/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/UI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UI.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ClassLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary/ClassLibrary.csproj",
+      "msbuildProject": "../ClassLibrary/ClassLibrary.csproj"
+    },
+    "Reporting/1.0.0": {
+      "type": "project",
+      "path": "../Reporting/Reporting.csproj",
+      "msbuildProject": "../Reporting/Reporting.csproj"
+    },
+    "UI/1.0.0": {
+      "type": "project",
+      "path": "../UI/UI.csproj",
+      "msbuildProject": "../UI/UI.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "ClassLibrary >= 1.0.0",
+      "Reporting >= 1.0.0",
+      "UI >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\rneerukonda1\\.nuget\\packages\\": {}
@@ -13,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rneerukonda1\\source\\repos\\Fremawork_Design_Guidelines\\Fremawork_Design_Guidelines\\Fremawork_Design_Guidelines.csproj",
+      "projectUniqueName": "C:\\Users\\rneerukonda1\\Desktop\\Backupdata\\Fremawork_Design_Guidelines\\Fremawork_Design_Guidelines\\Fremawork_Design_Guidelines.csproj",
       "projectName": "Fremawork_Design_Guidelines",
-      "projectPath": "C:\\Users\\rneerukonda1\\source\\repos\\Fremawork_Design_Guidelines\\Fremawork_Design_Guidelines\\Fremawork_Design_Guidelines.csproj",
+      "projectPath": "C:\\Users\\rneerukonda1\\Desktop\\Backupdata\\Fremawork_Design_Guidelines\\Fremawork_Design_Guidelines\\Fremawork_Design_Guidelines.csproj",
       "packagesPath": "C:\\Users\\rneerukonda1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rneerukonda1\\source\\repos\\Fremawork_Design_Guidelines\\Fremawork_Design_Guidelines\\obj\\",
+      "outputPath": "C:\\Users\\rneerukonda1\\Desktop\\Backupdata\\Fremawork_Design_Guidelines\\Fremawork_Design_Guidelines\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rneerukonda1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +81,17 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\rneerukonda1\\Desktop\\Backupdata\\Fremawork_Design_Guidelines\\ClassLibrary\\ClassLibrary.csproj": {
+              "projectPath": "C:\\Users\\rneerukonda1\\Desktop\\Backupdata\\Fremawork_Design_Guidelines\\ClassLibrary\\ClassLibrary.csproj"
+            },
+            "C:\\Users\\rneerukonda1\\Desktop\\Backupdata\\Fremawork_Design_Guidelines\\Reporting\\Reporting.csproj": {
+              "projectPath": "C:\\Users\\rneerukonda1\\Desktop\\Backupdata\\Fremawork_Design_Guidelines\\Reporting\\Reporting.csproj"
+            },
+            "C:\\Users\\rneerukonda1\\Desktop\\Backupdata\\Fremawork_Design_Guidelines\\UI\\UI.csproj": {
+              "projectPath": "C:\\Users\\rneerukonda1\\Desktop\\Backupdata\\Fremawork_Design_Guidelines\\UI\\UI.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
